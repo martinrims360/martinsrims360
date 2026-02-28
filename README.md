@@ -1,7 +1,9 @@
 <h1 align="center">Hola, 👋Me llamo : Martin Rimachi</h1>
 <h3 align="center">Soy un Frontend apasionado</h3>
 
-- 👨‍💻 All of my projects are available at [martinrims360](martinrims360)
+- 👨‍💻 All of my projects are available at [https://github.com/martinrims360?tab=repositories](https://github.com/martinrims360?tab=repositories)
+
+- 💬 Ask me about **html, css, javascript y reactjs**
 
 - 📫 How to reach me **martinrimachi6@gmail.com**
 
